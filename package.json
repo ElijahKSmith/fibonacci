@@ -1,0 +1,11 @@
+{
+  "name": "fib",
+  "version": "1.0.0",
+  "description": "Fibonacci dynamic programming demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ElijahKSmith",
+  "license": "ISC"
+}
